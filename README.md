@@ -1,5 +1,5 @@
 # BigListOfPodcasts
-A list of podcast URLs scraped from the Apple podcast database in late 2021, including a script for downloading those podcasts.
+A list of ~92,000 podcast feed URLs scraped from the Apple podcast database in late 2021, including a script for downloading those podcasts.
 
 I've included a script that will download all these podcasts, which is basically impossible because they would consume somewhere around 1PB of data. Instead, you can download the podcasts in chunks, and process those chunks individually (as I have done).
 
